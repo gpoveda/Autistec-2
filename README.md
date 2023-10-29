@@ -1,7 +1,6 @@
-# RestroGirls
+# Autistec
 
-A Simple Demo Resturant Management System Project in PHP
+The Autistec Project by Cristian Rodriguez - c 
 
-Designed in Materializecss Refer : https://materializecss.com/
+Designed in Materializecss Refer : https://autistec.netlify.com
 
-A pure custom PHP Project. Build for reference!
